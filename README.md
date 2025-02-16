@@ -69,14 +69,10 @@ Example
 Input metadata.csv  
 
 Paper Title | Paper URL | PDF URL | Download Timestamp  
-A Simple and Adaptive Learning Rate for FTRL | https://example.com/paper1 | https://example.com/paper1.pdf | 2023-10-01 12:34:56  
-A Simple Image Segmentation Framework | https://example.com/paper2 | https://example.com/paper2.pdf | 2023-10-01 12:35:10  
 
 Output metadata.csv  
 
 Paper Title | Paper URL | PDF URL | Download Timestamp | Category  
-A Simple and Adaptive Learning Rate for FTRL | https://example.com/paper1 | https://example.com/paper1.pdf | 2023-10-01 12:34:56 | Optimization and Theoretical ML  
-A Simple Image Segmentation Framework | https://example.com/paper2 | https://example.com/paper2.pdf | 2023-10-01 12:35:10 | Computer Vision and Image Processing  
 
 ---
 
